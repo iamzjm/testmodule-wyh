@@ -1,0 +1,19 @@
+{
+  "name": "testmodule-wyh",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "index.js",
+  "keywords": [
+    "testmodule"
+  ],
+  "author": "kyle",
+  "license": "ISC",
+  "homepage": "https://github.com/iamzjm/testmodule-wyh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamzjm/testmodule-wyh.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
